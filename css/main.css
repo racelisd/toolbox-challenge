@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400);
+
+body {
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	background-image: url(http://s1077986.instanturl.net/wp-content/uploads/2013/03/grass.jpg);
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+	background-size: cover;  
+}
+
+#button {
+	color: white;
+}
+
+#matchesLeft, #turns, #matchesFound, #time, #header, #howTo {
+	background-color: #D8D8D8;
+	opacity: 0.8;
+	font-size: 20px;
+}
